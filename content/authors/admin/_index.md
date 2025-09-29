@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Benjamín Molineaux
+title: Benjamín Molineaux y Fresia Loncon Antileo
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🇵🇸
 
 # Organizations/Affiliations
 #organizations:
