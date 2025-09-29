@@ -13,10 +13,10 @@ status:
   icon: 
 
 # Organizations/Affiliations
-organizations:
-- name: Benjamín Molineaux
+#organizations:
+#- name: Benjamín Molineaux
 #  url: ""
-- name: Fresia Loncon Antileo
+#- name: Fresia Loncon Antileo
 
 # Short bio (displayed in user profile at end of posts)
 bio: Inchu linguista ka mapudungun kimelfe ngeyu. Tüfachi pichi trokiñ kiñe chillka müñeyngun.
