@@ -11,8 +11,8 @@ headless: true
 weight: 20
 
 title: 'Chilkatupe iñchu engu!' 
- 
-subtitle: 'Tüfachi kiñe trokiñ chillka mapudungun mew. Kuyfike ngütram ngeyngün, welu ayukefiyu. Kom chi chillka nieyngün *notas* wingkadungun mew. Müley ka kiñe Kintunemülwe.'
+ #Tüfachi kiñe trokiñ chillka mapudungun mew. Kuyfike ngütram ngeyngün, welu ayukefiyu.
+subtitle: ' Kom chi chillka nieyngün *notas* wingkadungun mew. Müley ka kiñe [Kintun´emülwe](Glosario.pdf).'
 
 content:
   # Page type to display. E.g. project.
