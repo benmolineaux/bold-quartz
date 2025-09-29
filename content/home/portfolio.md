@@ -10,7 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 'testing '
+title: 'Tüfachi kiñe trokiñ chillka mapudungun mew. Kuyfike ngütram ngeyngün, welu ayukefiyu. Kom chi chillka nieyngün 'notas' wingkadungun mew. Müley ka kiñe [kintun'emülwe chillka](https://benmolineaux.github.io/bold-quartz/static/glosario.pdf). 
+ 
 subtitle: 'again'
 
 content:
