@@ -12,7 +12,7 @@ weight: 20
 
 title: 'Tüfachi kiñe trokiñ chillka mapudungun mew. Kuyfike ngütram ngeyngün,' 
  
-subtitle: 'welu ayukefiyu. Kom chi chillka nieyngün 'notas' wingkadungun mew. Müley ka kiñe Kintunemülwe.'
+subtitle: 'welu ayukefiyu. Kom chi chillka nieyngün *notas** wingkadungun mew. Müley ka kiñe Kintunemülwe.'
 
 content:
   # Page type to display. E.g. project.
