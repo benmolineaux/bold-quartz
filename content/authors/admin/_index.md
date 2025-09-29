@@ -1,6 +1,6 @@
 ---
 # Display name
-title: test
+title: Al’u Tuwü chi Chillkatuwe Mapudungun Mew
 
 # Is this the primary user of the site?
 superuser: true
