@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Al’u Tuwü chi Chillkatuwe Mapudungun Mew
+title: Al’utuwüchi Chillkatuwe Mapudungun Mew
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: '(Lecturas Avanzadas en Mapudungun 🛖 Advanced Mapudungun Reader)'
+role: '(Lecturas Avanzadas en Mapudungun 🦊 Advanced Mapudungun Reader)'
 
 # Status emoji
 status:
