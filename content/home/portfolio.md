@@ -10,9 +10,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 'Tüfachi kiñe trokiñ chillka mapudungun mew. Kuyfike ngütram ngeyngün,' 
+title: '' 
  
-subtitle: 'welu ayukefiyu. Kom chi chillka nieyngün *notas* wingkadungun mew. Müley ka kiñe Kintunemülwe.'
+subtitle: 'Tüfachi kiñe trokiñ chillka mapudungun mew. Kuyfike ngütram ngeyngün, welu ayukefiyu. Kom chi chillka nieyngün *notas* wingkadungun mew. Müley ka kiñe Kintunemülwe.'
 
 content:
   # Page type to display. E.g. project.
