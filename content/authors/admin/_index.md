@@ -6,7 +6,7 @@ title: Al’u Tuwü chi Chillkatuwe Mapudungun Mew
 superuser: true
 
 # Role/position
-role: ''
+role: '(Lecturas Avanzadas en Mapudungun)'
 
 # Status emoji
 status:
