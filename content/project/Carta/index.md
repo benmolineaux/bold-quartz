@@ -4,5 +4,5 @@ summary: Esta es una de las cartas contenidas en las Lecturas Araucanas compilad
 tags:
   - RM
 date: 2022-01-01
-external_link: http://github.com
+external_link: kiñechillka.pdf
 ---
