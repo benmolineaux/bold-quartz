@@ -4,5 +4,5 @@ summary: Este texto pertenece a un epew relatado por el kimche pehuenche Lorenzo
 tags:
   - LT
 date: 2022-01-01
-external_link: http://github.com
+external_link: gatomachi.pdf
 ---
