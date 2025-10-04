@@ -41,6 +41,8 @@ content:
       tag: epew
     - name: Kawiñ
       tag: kawin
+     - name: Ül
+      tag: ul
 
 design:
   columns: '1'
