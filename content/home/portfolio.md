@@ -39,7 +39,7 @@ content:
       tag: palin
     - name: Epew
       tag: epew
-    name: Kawiñ
+    - name: Kawiñ
       tag: kawin
 
 design:
