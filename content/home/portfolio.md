@@ -35,6 +35,12 @@ content:
       tag: LT
     - name: Iyagel
       tag: IYG
+    - name: Palin
+      tag: palin
+    - name: Epew
+      tag: epew
+    name: Kawiñ
+      tag: kawiñ
 
 design:
   columns: '1'
