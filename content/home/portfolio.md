@@ -40,7 +40,7 @@ content:
     - name: Epew
       tag: epew
     name: Kawiñ
-      tag: kawiñ
+      tag: kawin
 
 design:
   columns: '1'
