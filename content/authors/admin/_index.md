@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Füta amulel Chillkatuwe Mapudungun Mew
+title: Füta Amulel Chillkatuwe Mapudungun Mew
 
 # Is this the primary user of the site?
 superuser: true
