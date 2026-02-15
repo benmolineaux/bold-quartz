@@ -44,6 +44,8 @@ content:
       tag: kawin
     - name: Ül
       tag: ul
+      
+{{ template "_internal/disqus.html" . }}
 
 design:
   columns: '1'
@@ -52,4 +54,4 @@ design:
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
 ---
-{{ template "_internal/disqus.html" . }}
+
