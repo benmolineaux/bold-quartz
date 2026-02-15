@@ -7,4 +7,3 @@ tags:
 date: 2022-01-01
 external_link: punenul.pdf
 ---
-{{ partial "disqus.html" . }}

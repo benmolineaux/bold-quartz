@@ -1,4 +1,4 @@
-
+commentable: true
 ---
 # Homepage
 type: widget_page
