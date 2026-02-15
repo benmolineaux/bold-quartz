@@ -11,6 +11,7 @@ headless: true
 weight: 20
 
 title: 'Chilkatunge iñchu engu!' 
+commentable: ture
  #Tüfachi kiñe trokiñ chillka mapudungun mew. Kuyfike ngütram ngeyngün, welu ayukefiyu.
 subtitle: 'Kom tüfachi chillka nieyngün *notas* wingkadungun mew. Müley ka kiñe [Trürn’emülwe](Glosario.pdf).'
 
