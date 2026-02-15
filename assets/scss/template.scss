@@ -19,8 +19,6 @@ body {
   background-color: rgb(247, 250, 252);
 }
 
-{{ .Site.Config.Services.Disqus.Shortname }}
-
 .dark .page-footer {
   background-color: rgb(26, 32, 44);
 }
