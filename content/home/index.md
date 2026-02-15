@@ -1,6 +1,4 @@
 
-{ partial "disqus.html" . }
-
 ---
 # Homepage
 type: widget_page
