@@ -1,5 +1,5 @@
 
-{{ partial "disqus.html" . }}
+{ partial "disqus.html" . }
 
 ---
 # Homepage
