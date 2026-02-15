@@ -76,9 +76,9 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'disqus'
     disqus:
-      shortname: ''
+      shortname: 'benjaminmolineauxress'
       show_count: true
     commento:
       url: ''
