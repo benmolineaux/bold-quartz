@@ -1,3 +1,6 @@
+
+commentable: true
+
 ---
 # A section created with the Portfolio widget.
 # This section displays content from `content/project/`.
@@ -11,7 +14,6 @@ headless: true
 weight: 20
 
 title: 'Chilkatunge iñchu engu!' 
-commentable: true
  #Tüfachi kiñe trokiñ chillka mapudungun mew. Kuyfike ngütram ngeyngün, welu ayukefiyu.
 subtitle: 'Kom tüfachi chillka nieyngün *notas* wingkadungun mew. Müley ka kiñe [Trürn’emülwe](Glosario.pdf).'
 
