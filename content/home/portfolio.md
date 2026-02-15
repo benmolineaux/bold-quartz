@@ -52,6 +52,5 @@ design:
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
 
-footer:
 {{ partial "disqus.html" . }}
 ---
