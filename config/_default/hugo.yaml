@@ -13,12 +13,12 @@ baseURL: 'https://benmolineaux.github.io/bold-quartz/' # Website URL
 cascade:
   # Blog post options
   - _target:
-      path: /**
-    editable: true
+      path:
+    editable: false
     reading_time: true
     commentable: true
-    show_related: true
-    show_breadcrumb: true
+    show_related: false
+    show_breadcrumb: fañse
 
 ############################
 ## LANGUAGE
