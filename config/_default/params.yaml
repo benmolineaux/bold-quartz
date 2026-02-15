@@ -78,7 +78,7 @@ features:
   comment:
     provider: 'disqus'
     disqus:
-      shortname: 'benjaminmolineauxress'
+      shortname: 'futa-amulel'
       show_count: true
     commento:
       url: ''
