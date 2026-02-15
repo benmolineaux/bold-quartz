@@ -51,6 +51,7 @@ design:
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
----
+
 footer:
-{{ template "_internal/disqus.html" . }}
+{{ partial "disqus.html" . }}
+---
