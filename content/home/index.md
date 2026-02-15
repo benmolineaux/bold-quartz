@@ -1,5 +1,5 @@
 
-{{ template "_internal/disqus.html" . }}
+{{ partial "disqus.html" . }}
 
 ---
 # Homepage
