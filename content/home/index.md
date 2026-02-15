@@ -1,3 +1,6 @@
+
+{{ template "_internal/disqus.html" . }}
+
 ---
 # Homepage
 type: widget_page
@@ -7,4 +10,3 @@ headless: true
 
 
 ---
-{{ partial "disqus.html" . }}
