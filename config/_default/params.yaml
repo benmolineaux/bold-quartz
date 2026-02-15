@@ -2,6 +2,9 @@
 # Guide: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+hugoblox:
+  comments:
+    enable: true  # Must be true for any comments to show
 
 # Appearance
 
