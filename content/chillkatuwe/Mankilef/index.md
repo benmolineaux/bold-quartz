@@ -1,6 +1,6 @@
 ---
 title: Pu Mankelef Pelal che (Mankilef, 1913)
-summary: Esta es una versión parcial del relato de los orígenes de la familia de Manuel Manquilef, narrada por el mismo como parte del libro de Tomás de Guevara 
+summary: Esta es una versión parcial del relato de los orígenes *küpalme* de la familia de Manuel Manquilef, narrada por el mismo como parte del libro de Tomás de Guevara *Costumbres Araucanas: Las Últimas Familias* (1913). 
 
 tags:
   - RM
