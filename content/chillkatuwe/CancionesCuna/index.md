@@ -5,8 +5,7 @@ tags:
   - RM
   - ul
 date: 2022-01-01
-links:
-  - type: pdf
-    url: punenul.pdf
+
+url_pdf: 'punenul.pdf'
 ---
 Recolectadas por Marisa Malvestitti, estas son canciones de cuna cantadas por mujeres mapuche de dos zonas de *Puelmapu*.  
