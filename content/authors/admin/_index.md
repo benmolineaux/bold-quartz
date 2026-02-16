@@ -19,7 +19,7 @@ status:
 #- name: Fresia Loncon Antileo
 
 # Short bio (displayed in user profile at end of posts)
-bio: Inchu linguista ka mapudungun kimelfe ngeyu. Tüfachi pichi trawün chillka müñeyngun.
+bio: Inchu linguista (Benjamín) ka mapudungun kimelfe (Fresia) ngeyu. Tüfachi pichi trawün chillka müñeyngun.
 
 #interests:
 #- Artificial Intelligence
