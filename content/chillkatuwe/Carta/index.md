@@ -8,4 +8,4 @@ url_pdf:  kiñechillka.pdf
 ---
 Esta es una de las cartas contenidas en las *Lecturas Araucanas* compiladas por el padre capuchino Félix de Augusta. En este caso, se trata de una serie de mensajes que el longko Martín Wénchukoy y su familia, del área de Wapi, Lago Budi, envı́an a su hijo Miguel, que se encuentra en *Puelmapu*. 
 
-¡Leéla en [este PDF](kiñechillka.pdf)!
+¡Leéla en [este PDF](https://benmolineaux.github.io/bold-quartz/kiñechillka.pdf)!
