@@ -6,3 +6,6 @@ tags:
 date: 2026-01-01
 url_pdf: 'Mankelef.pdf'
 ---
+
+¡Léelo [aquí](https://benmolineaux.github.io/bold-quartz/Mankelef.pdf)!
+
