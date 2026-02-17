@@ -18,7 +18,7 @@ cascade:
     reading_time: true
     commentable: true
     show_related: false
-    show_breadcrumb: fañse
+    show_breadcrumb: false
 
 ############################
 ## LANGUAGE
