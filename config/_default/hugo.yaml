@@ -24,7 +24,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: es-419
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
