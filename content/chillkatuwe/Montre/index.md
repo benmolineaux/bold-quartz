@@ -1,7 +1,7 @@
 ---
 title: Montre Yem (Loncon, 2026)
 summary: "Esta es una historia tradicional de la zona de
-Traiguén que relata un episodio de la vida de *Montre*, mítico *palife*
+Lumaco que relata un episodio de la vida de *Montre*, mítico *palife*
 de la zona. Este personaje es conocido también por su destreza en
 el combate cuerpo-a-cuerpo, que se ve puesta a prueba por un rival
 formidable, conocido como *Wadafa Toro*."  
@@ -13,7 +13,7 @@ url_pdf: Montre_yem.pdf
 ---
 
 Esta es una historia tradicional de la zona de
-Traiguén que relata un episodio de la vida de *Montre*, mítico *palife*
+Lumaco que relata un episodio de la vida de *Montre*, mítico *palife*
 de la zona. Este personaje es conocido también por su destreza en
 el combate cuerpo-a-cuerpo, que se ve puesta a prueba por un rival
 formidable, conocido como *Wadafa Toro*. La historia fue registrada
