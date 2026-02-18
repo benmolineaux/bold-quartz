@@ -1,25 +1,13 @@
 ---
-title: Montre Yem (Loncon, 2026)
-summary: "Esta es una historia tradicional de la zona de
-Lumaco que relata un episodio de la vida de *Montre*, mítico *palife*
-de la zona. Este personaje es conocido también por su destreza en
-el combate cuerpo-a-cuerpo, que se ve puesta a prueba por un rival
-formidable, conocido como *Wadafa Toro*."  
+title: Dungulun (Febrés, 1765)
+summary: "Este es un diálogo informal y extendido entre dos *ülmen* del siglo XVII, compuesto por el jesuita catalán Andrés Febrés. Estos son Pedro Llancahuenu e Ignacio Levihueque. EL primero resume la historia del *Wallmapu*, desde sus albores en la historia de Tenten y Caicai, hasta el presente. El segundo relata sus viajes por Argentina y Paraguay."  
 tags:
-  - palin
+  - nütramkan
   
 date: 2026-01-01
-url_pdf: Montre_yem.pdf
+url_pdf: dungulun.pdf
 ---
 
-Esta es una historia tradicional de la zona de
-Lumaco que relata un episodio de la vida de *Montre*, mítico *palife*
-de la zona. Este personaje es conocido también por su destreza en
-el combate cuerpo-a-cuerpo, que se ve puesta a prueba por un rival
-formidable, conocido como *Wadafa Toro*. La historia fue registrada
-en español por Ricardo Alberto Loncon Antileo, hermano de Fresia Loncon Antileo.
-Esta versión fue re-traducida al mapudungun por los editores. El
-texto final fue verificado por su autor, hablante tradicional de la
-lengua. 
+Este es un diálogo informal y extendido entre dos *ülmen* del siglo XVII, compuesto por el jesuita catalán Andrés Febrés. Estos son Pedro Llancahuenu e Ignacio Levihueque. EL primero resume la historia del *Wallmapu*, desde sus albores en la historia de Tenten y Caicai, hasta el presente. El segundo relata sus viajes por Argentina y Paraguay.
 
-¡Léelo [aquí](https://benmolineaux.github.io/bold-quartz/Montre_yem.pdf)!
+¡Léelo [aquí](https://benmolineaux.github.io/bold-quartz/dungulun.pdf)!
