@@ -1,5 +1,5 @@
 ---
-title: "Kotun ka müñetun (Manquilef, 1914)"
+title: "Kotun ka weyeltun (Manquilef, 1914)"
 summary: "En sus libros, el intelectual y autor mapuche Manuel Manquilef (1882–1950) describe una serie de costumbres mapuche de su época y de épocas previas. Acá da a conocer los detalles del aseo personal y la natación, a las cuales atribuye gran parte de la salud y fuerza de los antiguos mapuche."
 
 tags:
