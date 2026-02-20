@@ -2,7 +2,7 @@
 title: Malkadakawiñ (Kumillaŋka, 1910)
 summary: Relato de una fiesta tradicional que solía practicarse en la zona de Panguipulli, pero que se dejó de practicar después de la guerra de ocupación de la Araucanía. 
 tags:
-  - kawiñ
+  - kawin
 date: 2026-01-01
 url_pdf: mascaras.pdf
 ---
