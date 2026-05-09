@@ -1,6 +1,6 @@
 ---
 title: Montre Yem (Loncon, 2026)
-summary: "Esta es una historia tradicional de la zona de
+summary: "Esta es una historia tradicional del área de
 Lumaco que relata un episodio de la vida de *Montre*, mítico *palife*
 de la zona. Este personaje es conocido también por su destreza en
 el combate cuerpo-a-cuerpo, que se ve puesta a prueba por un rival
