@@ -29,7 +29,7 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: Kom 
+    - name: Kom Chillka
       tag: '*'
     - name: Reñma 
       tag: RM
@@ -45,12 +45,14 @@ content:
       tag: kawin
     - name: Ül
       tag: ul
-    - name: Kuyfike N'ütram
+    - name: Kuyfike Nütram
       tag: KN
     - name: Kaleke Mongen Che
       tag: KM
     - name: Kulliñ
       tag: kulliñ
+    – name: Nütramkan
+      tag; N
       
 design:
   columns: '1'
