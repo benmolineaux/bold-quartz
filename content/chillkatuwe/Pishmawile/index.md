@@ -4,6 +4,7 @@ summary: Este relato fue referido for Domingo Wenuñamko, de Panguipulli, al pad
 tags:
   - palin
   - epew
+  - kullin
 date: 2026-01-01
 url_pdf: Pismawile.pdf
 ---
