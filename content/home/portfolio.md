@@ -45,6 +45,12 @@ content:
       tag: kawin
     - name: Ül
       tag: ul
+    – name: Cristiano Dungu
+      tag: CD
+    - name: Kuyfike Nütram
+      tag: KN
+    - name: Kaleke Mongen Che
+      tag: KM
       
 design:
   columns: '1'

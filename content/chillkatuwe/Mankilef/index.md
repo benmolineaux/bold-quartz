@@ -4,6 +4,7 @@ summary: "Esta es una versión parcial del relato de los orígenes *küpalme* de
 
 tags:
   - RM
+  - KN
 date: 2026-01-01
 url_pdf: 'Mankelef.pdf'
 ---

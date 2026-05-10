@@ -2,7 +2,7 @@
 title: Sermón (Valdivia, 1621)
 summary: Este sermón es el último de una colección de nueve sermones compuestos por el padre Luys de Valdivia (1560-1621), uno de los primeros jesuitas españoles asignados a la misión de Chile. Es uno de los primeros textos de larga duración escritosen (o traducidos al) mapudungun.  
 tags:
-  - epew
+  - CD
 date: 2026-01-01
 url_pdf: Sermon.pdf
 ---

@@ -3,7 +3,7 @@ title: Kallfün ñi Mongen (Kallfün, 1896)
 summary: Esta es la autobiografía de Kallfün, Calvün o Segundo Jara, un fantastico relator mapuche, cuyas historias y relatos fueron capturados por el lingüista Chileno-Alemán Rudolf Lenz en su obra *Estudios Araucanos* (1897.)
 
 tags:
-  - nütram
+  - KN
 date: 2026-01-01
 url_pdf: Kallfun.pdf
 ---
