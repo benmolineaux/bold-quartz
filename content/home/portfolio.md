@@ -35,8 +35,8 @@ content:
       tag: RM
     - name: L'awen'tun
       tag: LT
-    - name: Iyagel
-      tag: IYG
+    - name: Cristiano Dungu
+      tag: CD
     - name: Palin
       tag: palin
     - name: Epew
