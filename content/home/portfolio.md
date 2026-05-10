@@ -51,6 +51,8 @@ content:
       tag: KM
     - name: Kulliñ
       tag: kullin
+    - name: nutramkan
+      tag: CONV
       
 design:
   columns: '1'
