@@ -32,15 +32,15 @@ content:
     - name: Kom chillka
       tag: '*'
     - name: Reñma mongen
-      tag: RM
+      tag: 'RM'
     - name: L'awen'tun
-      tag: LT
+      tag: 'LT'
     - name: Palin
-      tag: palin
+      tag: 'palin'
     - name: Epew
-      tag: epew
+      tag: 'epew'
     – name: Cristiano Dungu
-      tag: CD
+      tag: 'CD'
 
       
 design:
