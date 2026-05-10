@@ -1,5 +1,5 @@
 ---
-title: Kiñe l'a wentru mongen domuche engu (Amasa, 1894)
+title: Epew Latrapay Füta (Kalfün, 1896)
 summary: "Esta es una historia de eventos sobrenaturales relatada por Kalfün a Rodolfo Lenz en el Fundo Santa Rosa en la zona de Perquenco, actual provincia de Victoria. El siniestro personaje del título es recurrente en muchos de los cuentos de las comunidades mapuche actuales"
 tags:
   - palin
