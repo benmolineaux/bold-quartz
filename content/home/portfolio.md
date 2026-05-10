@@ -45,9 +45,9 @@ content:
       tag: kawin
     - name: Ül
       tag: ul
-    - name: kuyfi
+    - name: Kuyfi
       tag: KN
-    - name: Kaleke
+    - name: Kaleke Mongen
       tag: KM
       
 design:
