@@ -39,10 +39,6 @@ content:
       tag: palin
     - name: Epew
       tag: epew
-    - name: Kawiñ
-      tag: kawin
-    - name: Ül
-      tag: ul
     – name: Cristiano Dungu
       tag: CD
 
