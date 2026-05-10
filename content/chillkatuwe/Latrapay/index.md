@@ -4,7 +4,6 @@ summary: "Esta es una historia de eventos sobrenaturales relatada por Kalfün a 
 tags:
   - epew
   - KM
-  - kulliñ
   
 date: 2026-01-01
 url_pdf: Latrapay.pdf

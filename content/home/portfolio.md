@@ -49,7 +49,7 @@ content:
       tag: CD
     - name: Kuyfike Nütram
       tag: KN
-    - name: Kaleke Mongen Che
+    - name: Kaleke Monge Che
       tag: KM
       
 design:
