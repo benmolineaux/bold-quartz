@@ -47,6 +47,8 @@ content:
       tag: ul
     - name: kuyfi
       tag: KN
+    - name: Kaleke
+      tag: KM
       
 design:
   columns: '1'
