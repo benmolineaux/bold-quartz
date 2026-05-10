@@ -35,8 +35,6 @@ content:
       tag: RM
     - name: L'awen'tun
       tag: LT
-    - name: Iyagel
-      tag: IYG
     - name: Palin
       tag: palin
     - name: Epew
