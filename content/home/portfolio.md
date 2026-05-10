@@ -29,13 +29,13 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: Kom chillka
+    - name: Kom 
       tag: '*'
-    - name: Reñma mongen
+    - name: Reñma 
       tag: RM
     - name: L'awen'tun
       tag: LT
-    - name: Cristiano Dungu
+    - name: Patiru Dungu
       tag: CD
     - name: Palin
       tag: palin
@@ -45,6 +45,8 @@ content:
       tag: kawin
     - name: Ül
       tag: ul
+    - name: kuyfi
+      tag: KN
       
 design:
   columns: '1'
