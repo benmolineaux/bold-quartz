@@ -50,7 +50,7 @@ content:
     - name: Kaleke Mongen Che
       tag: KM
     - name: Kulliñ
-      tag: kulliñ
+      tag: kullin
     – name: Nütramkan
       tag; N
       
