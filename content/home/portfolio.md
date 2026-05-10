@@ -51,8 +51,6 @@ content:
       tag: KM
     - name: Kulliñ
       tag: kullin
-    – name: Nütramkan
-      tag; N
       
 design:
   columns: '1'
