@@ -49,6 +49,8 @@ content:
       tag: KN
     - name: Kaleke Mongen Che
       tag: KM
+    - name: Kulliñ
+      tag: kulliñ
       
 design:
   columns: '1'
